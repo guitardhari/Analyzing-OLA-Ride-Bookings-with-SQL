@@ -19,9 +19,3 @@ This repository contains a SQL script for analyzing OLA ride bookings.
 Created by [Harshit Gupta (guitardhari)](https://github.com/your-username)
 ```
 
-4. Click **"Commit new file."**
-
----
-
-After doing this, your SQL script and explanation will be available on GitHub! 🚀  
-Let me know if you need help with anything else. 😊
