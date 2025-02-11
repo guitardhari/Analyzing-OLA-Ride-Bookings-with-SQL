@@ -1,4 +1,4 @@
-# Analyzing-OLA-Ride-Bookings-with-SQL
+# Analyzing OLA Ride Bookings with SQL
 
 This repository contains a SQL script for analyzing OLA ride bookings.
 
